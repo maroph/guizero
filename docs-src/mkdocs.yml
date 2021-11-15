@@ -7,6 +7,7 @@ nav:
   - Installation: index.md
   - Using guizero:
       - Getting started: start.md
+      - Using Widgets: usingwidgets.md 
       - Commands: commands.md
       - Multiple windows: multiple_windows.md
       - Layouts: layout.md
@@ -18,8 +19,8 @@ nav:
       - Events: events.md
       - Using tkinter: usingtk.md
       - Getting help: gettinghelp.md
-  - Recipes: recipes.md
   - Widgets:
+      - Overview: widgetoverview.md
       - App: app.md
       - Box: box.md
       - ButtonGroup: buttongroup.md
@@ -35,6 +36,8 @@ nav:
       - TextBox: textbox.md
       - Waffle: waffle.md
       - Window: window.md
+  - Recipes: recipes.md
+  - Book : book.md
   - Contributing:
       - Notes: contributing.md
       - Developing: development.md
